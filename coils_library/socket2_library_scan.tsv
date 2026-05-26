@@ -1,0 +1,35 @@
+source	pdb	parent_pdb	expected_topology	socket2_detected	socket2_cc_type	match	n_helices	n_ccs	cutoff_used	socket2_register	socket2_ok	layout	literature
+cc_crystals_rcsb	4pxj.pdb	4PXJ	AP	False	"dssp_failed: Error while loading dictionary mmcif_pdbx.dic
+ >> basic_file"	no_detection	0	0			False	A:430-485(n=56), B:430-486(n=57), C:426-486(n=61)	Doong 2016 Acta Cryst D - JIP3 LZII natural AP homodimer
+cc_crystals_rcsb	6E4H_full.pdb	6E4H	AP	False	"dssp_failed: Error while loading dictionary mmcif_pdbx.dic
+ >> basic_file"	no_detection	0	0			False	A:1-62(n=62), B:1-62(n=62)	Bhatt 2018 - PALB2cc antiparallel homodimer (loose CC, needs cutoff >=7.5)
+cc_crystals_rcsb	6e4h.pdb	6E4H	AP	False	"dssp_failed: Error while loading dictionary mmcif_pdbx.dic
+ >> basic_file"	no_detection	0	0			False	A:1-62(n=62), B:1-62(n=62)	Bhatt 2018 - PALB2cc antiparallel homodimer (loose CC, needs cutoff >=7.5)
+cc_crystals_rcsb	6q5s.pdb	6Q5S	AP	False	"dssp_failed: Error while loading dictionary mmcif_pdbx.dic
+ >> basic_file"	no_detection	0	0			False	A:1-30(n=30), B:1-30(n=30), C:1-30(n=30), D:1-30(n=30)	Rhys 2019 Nature - de novo AP 4-helix bundle (apCC-Tet)
+cc_crystals_rcsb	7q1r.pdb	7Q1R	AP	False	"dssp_failed: Error while loading dictionary mmcif_pdbx.dic
+ >> basic_file"	no_detection	0	0			False	A:1-30(n=30), B:102-131(n=30)	Rhys 2022 Nat Chem Biol - de novo AP homodimer (apCC-Di)
+cc_crystals_rcsb	7q1t.pdb	7Q1T	AP	False	"dssp_failed: Error while loading dictionary mmcif_pdbx.dic
+ >> basic_file"	no_detection	0	0			False	A:1-30(n=30), B:1-30(n=30)	Rhys 2022 Nat Chem Biol - de novo AP heterodimer (apCC-Di-AB)
+cc_pdb_refs	1I49.pdb	1I49	?	False	"dssp_failed: Error while loading dictionary mmcif_pdbx.dic
+ >> basic_file"	no_detection	0	0			False	A:23-223(n=201), B:23-223(n=201)	GCN4 variant reference; topology unverified in this library
+cc_pdb_refs	4PXJ.pdb	4PXJ	AP	False	"dssp_failed: Error while loading dictionary mmcif_pdbx.dic
+ >> basic_file"	no_detection	0	0			False	A:1-30(n=30), B:1-30(n=30), C:1-30(n=30), D:1-30(n=30)	Doong 2016 Acta Cryst D - JIP3 LZII natural AP homodimer
+cc_pdb_refs	6E4H.pdb	6E4H	AP	False	"dssp_failed: Error while loading dictionary mmcif_pdbx.dic
+ >> basic_file"	no_detection	0	0			False	single-chain bundled split: coil1=1-30, linker=31-35, coil2=36-65	Bhatt 2018 - PALB2cc antiparallel homodimer (loose CC, needs cutoff >=7.5)
+cc_pdb_refs	6Q5S.pdb	6Q5S	AP	False	"dssp_failed: Error while loading dictionary mmcif_pdbx.dic
+ >> basic_file"	no_detection	0	0			False	single-chain bundled split: coil1=1-30, linker=31-35, coil2=36-65	Rhys 2019 Nature - de novo AP 4-helix bundle (apCC-Tet)
+cc_pdb_refs	7Q1R.pdb	7Q1R	AP	False	"dssp_failed: Error while loading dictionary mmcif_pdbx.dic
+ >> basic_file"	no_detection	0	0			False	single-chain bundled split: coil1=1-30, linker=31-35, coil2=36-65	Rhys 2022 Nat Chem Biol - de novo AP homodimer (apCC-Di)
+cc_pdb_refs	7Q1T.pdb	7Q1T	AP	False	"dssp_failed: Error while loading dictionary mmcif_pdbx.dic
+ >> basic_file"	no_detection	0	0			False	single-chain bundled split: coil1=1-30, linker=31-35, coil2=36-65	Rhys 2022 Nat Chem Biol - de novo AP heterodimer (apCC-Di-AB)
+cc_scaffolds_v2	4PXJ.pdb	4PXJ	AP	False	"dssp_failed: Error while loading dictionary mmcif_pdbx.dic
+ >> basic_file"	no_detection	0	0			False	single-chain bundled split: coil1=1-56, linker=57-61, coil2=62-117	Doong 2016 Acta Cryst D - JIP3 LZII natural AP homodimer
+cc_scaffolds_v2	6E4H.pdb	6E4H	AP	False	"dssp_failed: Error while loading dictionary mmcif_pdbx.dic
+ >> basic_file"	no_detection	0	0			False	single-chain bundled split: coil1=1-30, linker=31-35, coil2=36-65	Bhatt 2018 - PALB2cc antiparallel homodimer (loose CC, needs cutoff >=7.5)
+cc_scaffolds_v2	6Q5S.pdb	6Q5S	AP	False	"dssp_failed: Error while loading dictionary mmcif_pdbx.dic
+ >> basic_file"	no_detection	0	0			False	single-chain bundled split: coil1=1-30, linker=31-35, coil2=36-65	Rhys 2019 Nature - de novo AP 4-helix bundle (apCC-Tet)
+cc_scaffolds_v2	7Q1R.pdb	7Q1R	AP	False	"dssp_failed: Error while loading dictionary mmcif_pdbx.dic
+ >> basic_file"	no_detection	0	0			False	single-chain bundled split: coil1=1-30, linker=31-35, coil2=36-65	Rhys 2022 Nat Chem Biol - de novo AP homodimer (apCC-Di)
+cc_scaffolds_v2	7Q1T.pdb	7Q1T	AP	False	"dssp_failed: Error while loading dictionary mmcif_pdbx.dic
+ >> basic_file"	no_detection	0	0			False	single-chain bundled split: coil1=1-30, linker=31-35, coil2=36-65	Rhys 2022 Nat Chem Biol - de novo AP heterodimer (apCC-Di-AB)
