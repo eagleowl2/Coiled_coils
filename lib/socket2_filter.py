@@ -1,0 +1,1 @@
+[FULL CONTENT OF socket2_filter.py]
