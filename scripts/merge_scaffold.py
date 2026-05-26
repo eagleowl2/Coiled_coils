@@ -1,1 +1,1 @@
-[fetch next if needed]
+[full content]
