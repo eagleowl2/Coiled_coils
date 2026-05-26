@@ -1,0 +1,61 @@
+# Cleaned .gitignore for public academic Coiled-Coils repo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# macOS
+.DS_Store
+
+# Common output directories (pipeline runs)
+results/
+*_output/
+rfd_results/
+rfd_predictions/
+
+# PDBs: ignore most, but allow the curated library
+*.pdb
+!coils_library/**/*.pdb
+!experiments/**/results/**/*.pdb
+
+# Logs and SLURM artifacts
+*.log
+logs/
+slurm-*.out
+
+# Large / local-only artifacts
+*.tar.gz
+*.sif
+Socket2_colab-main.zip
+
+# Local dev notes (not for public)
+.claude/
+.idea/
+
+# Test / temp
+.pytest_cache/
+.coverage
+htmlcov/
