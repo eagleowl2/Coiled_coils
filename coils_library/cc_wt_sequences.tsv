@@ -1,0 +1,6 @@
+parent_pdb	name	coil1	inner_linker	coil2	notes
+6E4H	PALB2cc homodimer	YAEKEKLKEKLAFLKKEYSRTLARLQRAKR	GGGGS	YAEKEKLKEKLAFLKKEYSRTLARLQRAKR	homodimer; two identical helices joined by GGGGS for single-chain CC; sequence from Bhatt 2018
+7Q1R	apCC-Di homodimer	GQLEQELAALDQQIAALKQRRAALKWQIQG	GGGGS	GQLEQELAALDQQIAALKQRRAALKWQIQG	Woolfson de novo antiparallel homodimer; hyperthermostable Kd<1nM; Rhys 2022 Nat Chem Biol 18:999
+7Q1T	apCC-Di-AB heterodimer	GQLEQELAALDQEIAAAEQELAALDWQIQG	GGGGS	GQLKQRRAALKQRIAALKQRRAALKWQIQG	Woolfson de novo AP heterodimer; chain A as coil1 chain B as coil2; orthogonal to parallel CCs; Rhys 2022 Nat Chem Biol 18:999
+4PXJ	JIP3-LZII antiparallel dimer	PEFTKNALNVVKNDLIAKVDQLSGEQEVLRGELEAAKQAKVKLENRIKELEEELKR	GGGGS	PEFTKNALNVVKNDLIAKVDQLSGEQEVLRGELEAAKQAKVKLENRIKELEEELKR	JIP3 leucine zipper II; natural AP homodimer; 8 heptads 56aa; buries Asn as specificity determinant; Doong 2016 Acta Cryst D72:243
+6Q5S	apCC-Tet homotetramer helix	GELEALAQELEALAKKLKALAWKLKALAQG	GGGGS	GELEALAQELEALAKKLKALAWKLKALAQG	Woolfson de novo AP 4-helix bundle scaffold; 5-heptad single helix used as AP dimer in construct; Rhys 2019 Nature 569:76
